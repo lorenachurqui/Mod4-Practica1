@@ -1,0 +1,13 @@
+Options +Indexes
+IndexOptions +DescriptionWidth=50
+AddDescription "Multiplicación ruso" T1-01MultiplicacionRuso.php
+AddDescription "Verifica si un número es palíndromo" T1-02Palindromo.php
+AddDescription "Sum, rest, mult, div de dos numeros complejos" T1-03OperacionesNumerosComplejos.php
+AddDescription "Array, calculos de numeros enteros" T1-04ArrayNumerosEnteros.php
+AddDescription "Dibujo arbol (sin base) segun valor N" T1-05Dibujo.php
+AddDescription "Valor PI utilizando formula Ramanujan" T1-06ValorPi.php
+AddDescription "Ecuación de 2do grado" T1-07Ecuacion.php
+AddDescription "Procesar texto, función callback" T1-08ProcesarTexto.php
+AddDescription "Suma cualquier cantidad de números usando ...args" T1-09FuncionSumarTodos.php
+AddDescription "Concatenar texto, usando ...args" T1-10FuncionConcatenarTexto.php
+AddDescription "Array_map, array_filter y array_reduce" T1-11FuncionesArray.php
